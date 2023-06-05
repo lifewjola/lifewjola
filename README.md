@@ -1,4 +1,4 @@
-[![MasterHead](https://aclm.in/wp-content/uploads/2021/09/bar_chart_animation-1.gif)](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif))]
+[![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)]
 <h1 align="center">Hello 👋, I'm Anjolaoluwa Ajayi</h1>
 <h3 align="center">An enthusiastic Data Scientist</h3>
 <img align = "right" alt = "coding" width = "400" src = https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif>
