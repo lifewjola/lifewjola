@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Anjolaoluwa Ajayi</h1>
 <h3 align="center">An enthusiastic Data Scientist</h3>
+<img align = "right" alt = "coding" width = "400" src = https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifewjola&label=Profile%20views&color=0e75b6&style=flat" alt="lifewjola" /> </p>
 
