@@ -1,3 +1,4 @@
+[![MasterHead](https://aclm.in/wp-content/uploads/2021/09/bar_chart_animation-1.gif)]
 <h1 align="center">Hello 👋, I'm Anjolaoluwa Ajayi</h1>
 <h3 align="center">An enthusiastic Data Scientist</h3>
 <img align = "right" alt = "coding" width = "400" src = https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif>
