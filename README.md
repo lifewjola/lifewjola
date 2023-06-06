@@ -13,17 +13,9 @@
 
 - 👯 I’m looking to collaborate on **intelligent data projects that lead to informed decisions on current situations**
 
-- 🤝 I’m looking for help with **my Study app which is still in its idea phase**
-
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/12YkZsF9n3LEi_u4fE20FVtAeyPt8ev4l?usp=sharing](https://drive.google.com/drive/folders/12YkZsF9n3LEi_u4fE20FVtAeyPt8ev4l?usp=sharing)
-
 - 📝 I regularly write articles on [https://medium.com/@lifewjola](https://medium.com/@lifewjola)
 
-- 💬 Ask me about **python and data analysis**
-
 - 📫 How to reach me **anjolaajayi3@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/lifewjola/](https://www.linkedin.com/in/lifewjola/)
 
 - ⚡ Fun fact **I also write romcoms**
 
