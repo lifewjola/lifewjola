@@ -11,13 +11,9 @@
 
 - 🌱 I’m currently learning **ML/ AI Technology**
 
-- 👯 I’m looking to collaborate on **intelligent data projects that lead to informed decisions on current situations**
-
 - 📝 I regularly write articles on [https://medium.com/@lifewjola](https://medium.com/@lifewjola)
 
 - 📫 How to reach me **anjolaajayi3@gmail.com**
-
-- ⚡ Fun fact **I also write romcoms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
