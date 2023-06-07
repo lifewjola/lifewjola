@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ML/ AI Technology**
 
-- 📝 I regularly write articles on [https://medium.com/@lifewjola](https://medium.com/@lifewjola)
+- 📝 I regularly write articles on [https://medium.com/@dataprincess](https://medium.com/@dataprincess)
 
 - 📫 How to reach me **anjolaajayi3@gmail.com**
 
