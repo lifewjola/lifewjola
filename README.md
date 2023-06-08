@@ -1,4 +1,4 @@
-![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)
 <h1 align="center">Hello 👋, I'm Anjolaoluwa Ajayi</h1>
 <h3 align="center">An enthusiastic Data Scientist</h3>
 <img align = "right" alt = "coding" width = "400" src = https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif>
