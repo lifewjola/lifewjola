@@ -1,4 +1,3 @@
-![MasterHead](https://repository-images.githubusercontent.com/265904235/46eef600-9bab-11ea-87d9-ff5e73c39b97)
 <h1 align="center">Hello 👋, I'm Anjolaoluwa Ajayi</h1>
 <h3 align="center">An enthusiastic Data Scientist</h3>
 <img align = "right" alt = "coding" width = "400" src = https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif>
