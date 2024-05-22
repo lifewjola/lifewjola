@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋, I'm Anjolaoluwa Ajayi</h1>
-<h3 align="center">A Dedicated Machine Learning Engineer</h3>
+<h3 align="center">I enjoy doing amazing things with data</h3>
 <img align = "right" alt = "coding" width = "400" src = https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifewjola&label=Profile%20views&color=0e75b6&style=flat" alt="lifewjola" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lifewjola" target="blank"><img src="https://img.shields.io/twitter/follow/lifewjola?logo=twitter&style=for-the-badge" alt="lifewjola" /></a> </p>
 
-- 🔭 I’m currently working on **an ML app with my data bud, Tochi (can't disclose details yet sorry)**
+- 🔭 I’m currently working on **AnjiBot a retrieval based chatbot for my department**
 
-- 🌱 I’m currently learning **Unsupervised Learning with Scikit learn**
+- 🌱 I’m currently learning **Data Science and ML on Azure and Google Cloud respectively**
 
 - 📝 I regularly write articles on [https://medium.com/@dataprincess](https://medium.com/@dataprincess)
 
